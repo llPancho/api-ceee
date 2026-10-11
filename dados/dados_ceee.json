@@ -11,43 +11,43 @@
     "inicio_de": null,
     "inicio_ate": null
   },
-  "gerado_em": "2026-10-11T12:23:23.292615Z",
+  "gerado_em": "2026-10-11T12:37:51.956870Z",
   "total": {
-    "ocorrencias": 605,
-    "unidades_afetadas": 16760,
-    "chi": 6603318,
-    "equipes_em_campo": 175,
-    "tempo_medio_minutos": 5107,
+    "ocorrencias": 606,
+    "unidades_afetadas": 16750,
+    "chi": 6842307,
+    "equipes_em_campo": 170,
+    "tempo_medio_minutos": 5056,
     "estagio_maximo": "",
     "por_status": {
       "Em Execução": {
-        "ocorrencias": 99,
-        "unidades_afetadas": 15789,
-        "chi": 2247185.4
+        "ocorrencias": 104,
+        "unidades_afetadas": 15712,
+        "chi": 2510631.6
       },
       "Em Preparação": {
-        "ocorrencias": 506,
-        "unidades_afetadas": 971,
-        "chi": 4356132.6
+        "ocorrencias": 502,
+        "unidades_afetadas": 1038,
+        "chi": 4331675.4
       }
     },
     "por_tipo": {
       "Não Programada": {
-        "ocorrencias": 601,
-        "unidades_afetadas": 16717,
-        "chi": 6594410.4
+        "ocorrencias": 602,
+        "unidades_afetadas": 16707,
+        "chi": 6832754.4
       },
       "Programada": {
         "ocorrencias": 4,
         "unidades_afetadas": 43,
-        "chi": 8907.6
+        "chi": 9552.6
       }
     },
     "por_operation_stage": {
       "Normal": {
-        "ocorrencias": 605,
-        "unidades_afetadas": 16760,
-        "chi": 6603318
+        "ocorrencias": 606,
+        "unidades_afetadas": 16750,
+        "chi": 6842307
       }
     }
   },
@@ -62,22 +62,22 @@
         "lat": -31.1154201,
         "lng": -54.9732388
       },
-      "ocorrencias": 48,
-      "unidades_afetadas": 427,
-      "chi": 1692203.4,
-      "equipes_em_campo": 18,
-      "tempo_medio_minutos": 3199,
+      "ocorrencias": 49,
+      "unidades_afetadas": 505,
+      "chi": 1701756,
+      "equipes_em_campo": 17,
+      "tempo_medio_minutos": 3149,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
-          "ocorrencias": 42,
-          "unidades_afetadas": 211,
-          "chi": 913892.4
+          "ocorrencias": 43,
+          "unidades_afetadas": 289,
+          "chi": 920190
         },
         "Em Execução": {
           "ocorrencias": 6,
           "unidades_afetadas": 216,
-          "chi": 778311
+          "chi": 781566
         }
       },
       "por_tipo": [],
@@ -93,22 +93,22 @@
         "lat": -31.06697833,
         "lng": -54.01074833
       },
-      "ocorrencias": 98,
-      "unidades_afetadas": 301,
-      "chi": 1493212.8,
-      "equipes_em_campo": 23,
-      "tempo_medio_minutos": 12934,
+      "ocorrencias": 103,
+      "unidades_afetadas": 307,
+      "chi": 1498218,
+      "equipes_em_campo": 25,
+      "tempo_medio_minutos": 12322,
       "estagio_maximo": "",
       "por_status": {
         "Em Execução": {
           "ocorrencias": 9,
           "unidades_afetadas": 91,
-          "chi": 142149
+          "chi": 143544
         },
         "Em Preparação": {
-          "ocorrencias": 89,
-          "unidades_afetadas": 210,
-          "chi": 1351063.8
+          "ocorrencias": 94,
+          "unidades_afetadas": 216,
+          "chi": 1354674
         }
       },
       "por_tipo": [],
@@ -124,22 +124,53 @@
         "lat": -30.0257004,
         "lng": -51.2046619
       },
-      "ocorrencias": 19,
-      "unidades_afetadas": 2319,
-      "chi": 1097836.2,
-      "equipes_em_campo": 11,
-      "tempo_medio_minutos": 53640,
+      "ocorrencias": 26,
+      "unidades_afetadas": 2326,
+      "chi": 1132864.8,
+      "equipes_em_campo": 14,
+      "tempo_medio_minutos": 39219,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
-          "ocorrencias": 11,
-          "unidades_afetadas": 11,
-          "chi": 1015992
+          "ocorrencias": 16,
+          "unidades_afetadas": 16,
+          "chi": 1016214
         },
         "Em Execução": {
-          "ocorrencias": 8,
-          "unidades_afetadas": 2308,
-          "chi": 81844.2
+          "ocorrencias": 10,
+          "unidades_afetadas": 2310,
+          "chi": 116650.8
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4318507,
+      "estado": "RS",
+      "municipio_ibge": 4318507,
+      "municipio_nome": "São José do Norte",
+      "bairro": null,
+      "centroide": {
+        "lat": -32.1194705,
+        "lng": -52.0835921
+      },
+      "ocorrencias": 8,
+      "unidades_afetadas": 12210,
+      "chi": 642168,
+      "equipes_em_campo": 4,
+      "tempo_medio_minutos": 653,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Execução": {
+          "ocorrencias": 2,
+          "unidades_afetadas": 12204,
+          "chi": 639643.8
+        },
+        "Em Preparação": {
+          "ocorrencias": 6,
+          "unidades_afetadas": 6,
+          "chi": 2524.2
         }
       },
       "por_tipo": [],
@@ -157,51 +188,20 @@
       },
       "ocorrencias": 24,
       "unidades_afetadas": 309,
-      "chi": 567294.6,
-      "equipes_em_campo": 7,
-      "tempo_medio_minutos": 3117,
+      "chi": 571974.6,
+      "equipes_em_campo": 6,
+      "tempo_medio_minutos": 3132,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 20,
           "unidades_afetadas": 32,
-          "chi": 230396.4
+          "chi": 230876.4
         },
         "Em Execução": {
           "ocorrencias": 4,
           "unidades_afetadas": 277,
-          "chi": 336898.2
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4318507,
-      "estado": "RS",
-      "municipio_ibge": 4318507,
-      "municipio_nome": "São José do Norte",
-      "bairro": null,
-      "centroide": {
-        "lat": -32.1194705,
-        "lng": -52.0835921
-      },
-      "ocorrencias": 5,
-      "unidades_afetadas": 12207,
-      "chi": 458970.6,
-      "equipes_em_campo": 4,
-      "tempo_medio_minutos": 1011,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Execução": {
-          "ocorrencias": 2,
-          "unidades_afetadas": 12204,
-          "chi": 456583.8
-        },
-        "Em Preparação": {
-          "ocorrencias": 3,
-          "unidades_afetadas": 3,
-          "chi": 2386.8
+          "chi": 341098.2
         }
       },
       "por_tipo": [],
@@ -219,20 +219,20 @@
       },
       "ocorrencias": 12,
       "unidades_afetadas": 115,
-      "chi": 324408,
+      "chi": 326080.8,
       "equipes_em_campo": 5,
-      "tempo_medio_minutos": 2048,
+      "tempo_medio_minutos": 2063,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 10,
           "unidades_afetadas": 97,
-          "chi": 281486.4
+          "chi": 282889.2
         },
         "Em Execução": {
           "ocorrencias": 2,
           "unidades_afetadas": 18,
-          "chi": 42921.6
+          "chi": 43191.6
         }
       },
       "por_tipo": [],
@@ -248,22 +248,22 @@
         "lat": -31.008328,
         "lng": -54.0817122
       },
-      "ocorrencias": 37,
-      "unidades_afetadas": 51,
-      "chi": 144427.8,
+      "ocorrencias": 38,
+      "unidades_afetadas": 52,
+      "chi": 145225.8,
       "equipes_em_campo": 9,
-      "tempo_medio_minutos": 2706,
+      "tempo_medio_minutos": 2651,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
-          "ocorrencias": 34,
-          "unidades_afetadas": 42,
-          "chi": 129693
+          "ocorrencias": 35,
+          "unidades_afetadas": 43,
+          "chi": 130356
         },
         "Em Execução": {
           "ocorrencias": 3,
           "unidades_afetadas": 9,
-          "chi": 14734.8
+          "chi": 14869.8
         }
       },
       "por_tipo": [],
@@ -279,22 +279,22 @@
         "lat": -31.6830346,
         "lng": -53.7775508
       },
-      "ocorrencias": 14,
+      "ocorrencias": 13,
       "unidades_afetadas": 37,
-      "chi": 141722.4,
+      "chi": 136494.6,
       "equipes_em_campo": 5,
-      "tempo_medio_minutos": 2820,
+      "tempo_medio_minutos": 2606,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
-          "ocorrencias": 12,
-          "unidades_afetadas": 13,
-          "chi": 39985.2
+          "ocorrencias": 11,
+          "unidades_afetadas": 12,
+          "chi": 34367.4
         },
         "Em Execução": {
           "ocorrencias": 2,
-          "unidades_afetadas": 24,
-          "chi": 101737.2
+          "unidades_afetadas": 25,
+          "chi": 102127.2
         }
       },
       "por_tipo": [],
@@ -312,20 +312,20 @@
       },
       "ocorrencias": 8,
       "unidades_afetadas": 44,
-      "chi": 70251.6,
+      "chi": 70911.6,
       "equipes_em_campo": 4,
-      "tempo_medio_minutos": 1863,
+      "tempo_medio_minutos": 1878,
       "estagio_maximo": "",
       "por_status": {
         "Em Execução": {
           "ocorrencias": 3,
           "unidades_afetadas": 37,
-          "chi": 58578.6
+          "chi": 59133.6
         },
         "Em Preparação": {
           "ocorrencias": 5,
           "unidades_afetadas": 7,
-          "chi": 11673
+          "chi": 11778
         }
       },
       "por_tipo": [],
@@ -343,20 +343,20 @@
       },
       "ocorrencias": 15,
       "unidades_afetadas": 28,
-      "chi": 65914.2,
+      "chi": 66328.8,
       "equipes_em_campo": 3,
-      "tempo_medio_minutos": 1585,
+      "tempo_medio_minutos": 1600,
       "estagio_maximo": "",
       "por_status": {
         "Em Execução": {
           "ocorrencias": 1,
           "unidades_afetadas": 6,
-          "chi": 21513.6
+          "chi": 21603.6
         },
         "Em Preparação": {
           "ocorrencias": 14,
           "unidades_afetadas": 22,
-          "chi": 44400.6
+          "chi": 44725.2
         }
       },
       "por_tipo": [],
@@ -372,177 +372,22 @@
         "lat": -31.1988689,
         "lng": -52.7476053
       },
-      "ocorrencias": 23,
-      "unidades_afetadas": 31,
-      "chi": 54882,
-      "equipes_em_campo": 7,
-      "tempo_medio_minutos": 2027,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Preparação": {
-          "ocorrencias": 21,
-          "unidades_afetadas": 21,
-          "chi": 43275.6
-        },
-        "Em Execução": {
-          "ocorrencias": 2,
-          "unidades_afetadas": 10,
-          "chi": 11606.4
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4321501,
-      "estado": "RS",
-      "municipio_ibge": 4321501,
-      "municipio_nome": "Torres",
-      "bairro": null,
-      "centroide": {
-        "lat": -29.4277427,
-        "lng": -49.7955727
-      },
-      "ocorrencias": 5,
-      "unidades_afetadas": 229,
-      "chi": 49160.4,
-      "equipes_em_campo": 4,
-      "tempo_medio_minutos": 451,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Execução": {
-          "ocorrencias": 3,
-          "unidades_afetadas": 227,
-          "chi": 48520.8
-        },
-        "Em Preparação": {
-          "ocorrencias": 2,
-          "unidades_afetadas": 2,
-          "chi": 639.6
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4315602,
-      "estado": "RS",
-      "municipio_ibge": 4315602,
-      "municipio_nome": "Rio Grande",
-      "bairro": null,
-      "centroide": {
-        "lat": -32.1742549,
-        "lng": -52.1694188
-      },
-      "ocorrencias": 42,
-      "unidades_afetadas": 42,
-      "chi": 47769.6,
-      "equipes_em_campo": 10,
-      "tempo_medio_minutos": 1137,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Preparação": {
-          "ocorrencias": 35,
-          "unidades_afetadas": 35,
-          "chi": 36069.6
-        },
-        "Em Execução": {
-          "ocorrencias": 7,
-          "unidades_afetadas": 7,
-          "chi": 11700
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4314407,
-      "estado": "RS",
-      "municipio_ibge": 4314407,
-      "municipio_nome": "Pelotas",
-      "bairro": null,
-      "centroide": {
-        "lat": -31.6486667,
-        "lng": -52.5081425
-      },
-      "ocorrencias": 35,
-      "unidades_afetadas": 43,
-      "chi": 44628,
-      "equipes_em_campo": 17,
-      "tempo_medio_minutos": 1101,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Preparação": {
-          "ocorrencias": 28,
-          "unidades_afetadas": 34,
-          "chi": 29509.2
-        },
-        "Em Execução": {
-          "ocorrencias": 7,
-          "unidades_afetadas": 9,
-          "chi": 15118.8
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4306908,
-      "estado": "RS",
-      "municipio_ibge": 4306908,
-      "municipio_nome": "Encruzilhada do Sul",
-      "bairro": null,
-      "centroide": {
-        "lat": -30.3688612,
-        "lng": -52.4337095
-      },
-      "ocorrencias": 10,
-      "unidades_afetadas": 61,
-      "chi": 42569.4,
+      "ocorrencias": 21,
+      "unidades_afetadas": 30,
+      "chi": 53885.4,
       "equipes_em_campo": 5,
-      "tempo_medio_minutos": 1616,
+      "tempo_medio_minutos": 2117,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
-          "ocorrencias": 7,
-          "unidades_afetadas": 46,
-          "chi": 17866.8
-        },
-        "Em Execução": {
-          "ocorrencias": 3,
-          "unidades_afetadas": 15,
-          "chi": 24702.6
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4314605,
-      "estado": "RS",
-      "municipio_ibge": 4314605,
-      "municipio_nome": "Piratini",
-      "bairro": null,
-      "centroide": {
-        "lat": -31.478259,
-        "lng": -53.2553665
-      },
-      "ocorrencias": 22,
-      "unidades_afetadas": 24,
-      "chi": 37687.8,
-      "equipes_em_campo": 8,
-      "tempo_medio_minutos": 1706,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Preparação": {
-          "ocorrencias": 20,
-          "unidades_afetadas": 22,
-          "chi": 34375.2
+          "ocorrencias": 19,
+          "unidades_afetadas": 19,
+          "chi": 41082.6
         },
         "Em Execução": {
           "ocorrencias": 2,
-          "unidades_afetadas": 2,
-          "chi": 3312.6
+          "unidades_afetadas": 11,
+          "chi": 12802.8
         }
       },
       "por_tipo": [],
@@ -558,22 +403,177 @@
         "lat": -30.7637793,
         "lng": -54.9225713
       },
-      "ocorrencias": 15,
-      "unidades_afetadas": 19,
-      "chi": 31584.6,
+      "ocorrencias": 16,
+      "unidades_afetadas": 85,
+      "chi": 50304.6,
       "equipes_em_campo": 7,
-      "tempo_medio_minutos": 2034,
+      "tempo_medio_minutos": 1923,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
-          "ocorrencias": 12,
-          "unidades_afetadas": 12,
-          "chi": 28296
+          "ocorrencias": 13,
+          "unidades_afetadas": 13,
+          "chi": 28503
         },
         "Em Execução": {
           "ocorrencias": 3,
+          "unidades_afetadas": 72,
+          "chi": 21801.6
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4315602,
+      "estado": "RS",
+      "municipio_ibge": 4315602,
+      "municipio_nome": "Rio Grande",
+      "bairro": null,
+      "centroide": {
+        "lat": -32.1742549,
+        "lng": -52.1694188
+      },
+      "ocorrencias": 41,
+      "unidades_afetadas": 41,
+      "chi": 47763.6,
+      "equipes_em_campo": 11,
+      "tempo_medio_minutos": 1165,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Preparação": {
+          "ocorrencias": 34,
+          "unidades_afetadas": 34,
+          "chi": 35958.6
+        },
+        "Em Execução": {
+          "ocorrencias": 7,
           "unidades_afetadas": 7,
-          "chi": 3288.6
+          "chi": 11805
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4306908,
+      "estado": "RS",
+      "municipio_ibge": 4306908,
+      "municipio_nome": "Encruzilhada do Sul",
+      "bairro": null,
+      "centroide": {
+        "lat": -30.3688612,
+        "lng": -52.4337095
+      },
+      "ocorrencias": 9,
+      "unidades_afetadas": 60,
+      "chi": 42007.8,
+      "equipes_em_campo": 4,
+      "tempo_medio_minutos": 1648,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Preparação": {
+          "ocorrencias": 6,
+          "unidades_afetadas": 45,
+          "chi": 17080.2
+        },
+        "Em Execução": {
+          "ocorrencias": 3,
+          "unidades_afetadas": 15,
+          "chi": 24927.6
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4314407,
+      "estado": "RS",
+      "municipio_ibge": 4314407,
+      "municipio_nome": "Pelotas",
+      "bairro": null,
+      "centroide": {
+        "lat": -31.6486667,
+        "lng": -52.5081425
+      },
+      "ocorrencias": 31,
+      "unidades_afetadas": 39,
+      "chi": 37270.2,
+      "equipes_em_campo": 14,
+      "tempo_medio_minutos": 1002,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Preparação": {
+          "ocorrencias": 24,
+          "unidades_afetadas": 24,
+          "chi": 22732.8
+        },
+        "Em Execução": {
+          "ocorrencias": 7,
+          "unidades_afetadas": 15,
+          "chi": 14537.4
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4314605,
+      "estado": "RS",
+      "municipio_ibge": 4314605,
+      "municipio_nome": "Piratini",
+      "bairro": null,
+      "centroide": {
+        "lat": -31.478259,
+        "lng": -53.2553665
+      },
+      "ocorrencias": 21,
+      "unidades_afetadas": 23,
+      "chi": 36915.6,
+      "equipes_em_campo": 8,
+      "tempo_medio_minutos": 1749,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Preparação": {
+          "ocorrencias": 19,
+          "unidades_afetadas": 21,
+          "chi": 33573
+        },
+        "Em Execução": {
+          "ocorrencias": 2,
+          "unidades_afetadas": 2,
+          "chi": 3342.6
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4313508,
+      "estado": "RS",
+      "municipio_ibge": 4313508,
+      "municipio_nome": "Osório",
+      "bairro": null,
+      "centroide": {
+        "lat": -29.8684317,
+        "lng": -50.0860613
+      },
+      "ocorrencias": 4,
+      "unidades_afetadas": 26,
+      "chi": 31887.6,
+      "equipes_em_campo": 3,
+      "tempo_medio_minutos": 702,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Execução": {
+          "ocorrencias": 1,
+          "unidades_afetadas": 23,
+          "chi": 30401.4
+        },
+        "Em Preparação": {
+          "ocorrencias": 3,
+          "unidades_afetadas": 3,
+          "chi": 1486.2
         }
       },
       "por_tipo": [],
@@ -591,15 +591,41 @@
       },
       "ocorrencias": 1,
       "unidades_afetadas": 19,
-      "chi": 29605.8,
+      "chi": 29890.8,
       "equipes_em_campo": 1,
-      "tempo_medio_minutos": 1558,
+      "tempo_medio_minutos": 1573,
       "estagio_maximo": "",
       "por_status": {
         "Em Execução": {
           "ocorrencias": 1,
           "unidades_afetadas": 19,
-          "chi": 29605.8
+          "chi": 29890.8
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4311734,
+      "estado": "RS",
+      "municipio_ibge": 4311734,
+      "municipio_nome": "Mampituba",
+      "bairro": null,
+      "centroide": {
+        "lat": -29.2306906,
+        "lng": -49.9834235
+      },
+      "ocorrencias": 1,
+      "unidades_afetadas": 51,
+      "chi": 23378.4,
+      "equipes_em_campo": 1,
+      "tempo_medio_minutos": 458,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Execução": {
+          "ocorrencias": 1,
+          "unidades_afetadas": 51,
+          "chi": 23378.4
         }
       },
       "por_tipo": [],
@@ -615,53 +641,22 @@
         "lat": -30.7637793,
         "lng": -54.9225713
       },
-      "ocorrencias": 21,
-      "unidades_afetadas": 21,
-      "chi": 22742.4,
+      "ocorrencias": 19,
+      "unidades_afetadas": 19,
+      "chi": 20527.8,
       "equipes_em_campo": 9,
-      "tempo_medio_minutos": 1083,
+      "tempo_medio_minutos": 1080,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
-          "ocorrencias": 15,
-          "unidades_afetadas": 15,
-          "chi": 15907.2
+          "ocorrencias": 13,
+          "unidades_afetadas": 13,
+          "chi": 13657.8
         },
         "Em Execução": {
           "ocorrencias": 6,
           "unidades_afetadas": 6,
-          "chi": 6835.2
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4305124,
-      "estado": "RS",
-      "municipio_ibge": 4305124,
-      "municipio_nome": "Cerrito",
-      "bairro": null,
-      "centroide": {
-        "lat": -31.8185201,
-        "lng": -52.7333468
-      },
-      "ocorrencias": 12,
-      "unidades_afetadas": 12,
-      "chi": 17862,
-      "equipes_em_campo": 7,
-      "tempo_medio_minutos": 1488,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Preparação": {
-          "ocorrencias": 11,
-          "unidades_afetadas": 11,
-          "chi": 16844.4
-        },
-        "Em Execução": {
-          "ocorrencias": 1,
-          "unidades_afetadas": 1,
-          "chi": 1017.6
+          "chi": 6870
         }
       },
       "por_tipo": [],
@@ -679,20 +674,82 @@
       },
       "ocorrencias": 11,
       "unidades_afetadas": 14,
-      "chi": 16527.6,
+      "chi": 16737.6,
       "equipes_em_campo": 5,
-      "tempo_medio_minutos": 1086,
+      "tempo_medio_minutos": 1101,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 10,
           "unidades_afetadas": 13,
-          "chi": 16490.4
+          "chi": 16685.4
         },
         "Em Execução": {
           "ocorrencias": 1,
           "unidades_afetadas": 1,
-          "chi": 37.2
+          "chi": 52.2
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4305124,
+      "estado": "RS",
+      "municipio_ibge": 4305124,
+      "municipio_nome": "Cerrito",
+      "bairro": null,
+      "centroide": {
+        "lat": -31.8185201,
+        "lng": -52.7333468
+      },
+      "ocorrencias": 9,
+      "unidades_afetadas": 9,
+      "chi": 15097.2,
+      "equipes_em_campo": 6,
+      "tempo_medio_minutos": 1677,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Preparação": {
+          "ocorrencias": 8,
+          "unidades_afetadas": 8,
+          "chi": 14064.6
+        },
+        "Em Execução": {
+          "ocorrencias": 1,
+          "unidades_afetadas": 1,
+          "chi": 1032.6
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4310330,
+      "estado": "RS",
+      "municipio_ibge": 4310330,
+      "municipio_nome": "Imbé",
+      "bairro": null,
+      "centroide": {
+        "lat": -29.9466231,
+        "lng": -50.115647
+      },
+      "ocorrencias": 14,
+      "unidades_afetadas": 14,
+      "chi": 12811.8,
+      "equipes_em_campo": 2,
+      "tempo_medio_minutos": 915,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Execução": {
+          "ocorrencias": 3,
+          "unidades_afetadas": 3,
+          "chi": 3703.8
+        },
+        "Em Preparação": {
+          "ocorrencias": 11,
+          "unidades_afetadas": 11,
+          "chi": 9108
         }
       },
       "por_tipo": [],
@@ -710,206 +767,20 @@
       },
       "ocorrencias": 12,
       "unidades_afetadas": 12,
-      "chi": 13510.8,
-      "equipes_em_campo": 7,
-      "tempo_medio_minutos": 1126,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Execução": {
-          "ocorrencias": 2,
-          "unidades_afetadas": 2,
-          "chi": 2827.2
-        },
-        "Em Preparação": {
-          "ocorrencias": 10,
-          "unidades_afetadas": 10,
-          "chi": 10683.6
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4310330,
-      "estado": "RS",
-      "municipio_ibge": 4310330,
-      "municipio_nome": "Imbé",
-      "bairro": null,
-      "centroide": {
-        "lat": -29.9466231,
-        "lng": -50.115647
-      },
-      "ocorrencias": 15,
-      "unidades_afetadas": 15,
-      "chi": 13436.4,
-      "equipes_em_campo": 3,
-      "tempo_medio_minutos": 896,
+      "chi": 12424.8,
+      "equipes_em_campo": 6,
+      "tempo_medio_minutos": 1035,
       "estagio_maximo": "",
       "por_status": {
         "Em Execução": {
           "ocorrencias": 3,
           "unidades_afetadas": 3,
-          "chi": 3658.8
+          "chi": 5616.6
         },
         "Em Preparação": {
-          "ocorrencias": 12,
-          "unidades_afetadas": 12,
-          "chi": 9777.6
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4303509,
-      "estado": "RS",
-      "municipio_ibge": 4303509,
-      "municipio_nome": "Camaquã",
-      "bairro": null,
-      "centroide": {
-        "lat": -30.81138612,
-        "lng": -51.92441698
-      },
-      "ocorrencias": 10,
-      "unidades_afetadas": 19,
-      "chi": 12802.8,
-      "equipes_em_campo": 7,
-      "tempo_medio_minutos": 638,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Execução": {
-          "ocorrencias": 6,
-          "unidades_afetadas": 15,
-          "chi": 10813.2
-        },
-        "Em Preparação": {
-          "ocorrencias": 4,
-          "unidades_afetadas": 4,
-          "chi": 1989.6
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4323002,
-      "estado": "RS",
-      "municipio_ibge": 4323002,
-      "municipio_nome": "Viamão",
-      "bairro": null,
-      "centroide": {
-        "lat": -30.0631621,
-        "lng": -51.0978124
-      },
-      "ocorrencias": 5,
-      "unidades_afetadas": 5,
-      "chi": 11964,
-      "equipes_em_campo": 3,
-      "tempo_medio_minutos": 2393,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Preparação": {
-          "ocorrencias": 4,
-          "unidades_afetadas": 4,
-          "chi": 11134.8
-        },
-        "Em Execução": {
-          "ocorrencias": 1,
-          "unidades_afetadas": 1,
-          "chi": 829.2
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4312450,
-      "estado": "RS",
-      "municipio_ibge": 4312450,
-      "municipio_nome": "Morro Redondo",
-      "bairro": null,
-      "centroide": {
-        "lat": -31.6668449,
-        "lng": -52.6618667
-      },
-      "ocorrencias": 5,
-      "unidades_afetadas": 7,
-      "chi": 10367.4,
-      "equipes_em_campo": 2,
-      "tempo_medio_minutos": 990,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Execução": {
-          "ocorrencias": 1,
-          "unidades_afetadas": 3,
-          "chi": 8125.2
-        },
-        "Em Preparação": {
-          "ocorrencias": 4,
-          "unidades_afetadas": 4,
-          "chi": 2242.2
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4305454,
-      "estado": "RS",
-      "municipio_ibge": 4305454,
-      "municipio_nome": "Cidreira",
-      "bairro": null,
-      "centroide": {
-        "lat": -30.1916489,
-        "lng": -50.208263
-      },
-      "ocorrencias": 12,
-      "unidades_afetadas": 13,
-      "chi": 9938.4,
-      "equipes_em_campo": 3,
-      "tempo_medio_minutos": 817,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Preparação": {
-          "ocorrencias": 11,
-          "unidades_afetadas": 12,
-          "chi": 9202.2
-        },
-        "Em Execução": {
-          "ocorrencias": 1,
-          "unidades_afetadas": 1,
-          "chi": 736.2
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4301636,
-      "estado": "RS",
-      "municipio_ibge": 4301636,
-      "municipio_nome": "Balneário Pinhal",
-      "bairro": null,
-      "centroide": {
-        "lat": -30.2815676,
-        "lng": -50.2574282
-      },
-      "ocorrencias": 13,
-      "unidades_afetadas": 13,
-      "chi": 9135,
-      "equipes_em_campo": 3,
-      "tempo_medio_minutos": 703,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Preparação": {
-          "ocorrencias": 10,
-          "unidades_afetadas": 10,
-          "chi": 6676.8
-        },
-        "Em Execução": {
-          "ocorrencias": 3,
-          "unidades_afetadas": 3,
-          "chi": 2458.2
+          "ocorrencias": 9,
+          "unidades_afetadas": 9,
+          "chi": 6808.2
         }
       },
       "por_tipo": [],
@@ -927,46 +798,170 @@
       },
       "ocorrencias": 1,
       "unidades_afetadas": 230,
-      "chi": 8970,
+      "chi": 12420,
       "equipes_em_campo": 1,
-      "tempo_medio_minutos": 39,
+      "tempo_medio_minutos": 54,
       "estagio_maximo": "",
       "por_status": {
         "Em Execução": {
           "ocorrencias": 1,
           "unidades_afetadas": 230,
-          "chi": 8970
+          "chi": 12420
         }
       },
       "por_tipo": [],
       "por_operation_stage": []
     },
     {
-      "id": 4314209,
+      "id": 4323002,
       "estado": "RS",
-      "municipio_ibge": 4314209,
-      "municipio_nome": "Pedro Osório",
+      "municipio_ibge": 4323002,
+      "municipio_nome": "Viamão",
       "bairro": null,
       "centroide": {
-        "lat": -31.5033665,
-        "lng": -52.8540819
+        "lat": -30.0631621,
+        "lng": -51.0978124
       },
       "ocorrencias": 6,
       "unidades_afetadas": 6,
-      "chi": 8285.4,
+      "chi": 12080.4,
       "equipes_em_campo": 3,
-      "tempo_medio_minutos": 1381,
+      "tempo_medio_minutos": 2013,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Execução": {
+          "ocorrencias": 2,
+          "unidades_afetadas": 2,
+          "chi": 7999.2
+        },
+        "Em Preparação": {
+          "ocorrencias": 4,
+          "unidades_afetadas": 4,
+          "chi": 4081.2
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4303509,
+      "estado": "RS",
+      "municipio_ibge": 4303509,
+      "municipio_nome": "Camaquã",
+      "bairro": null,
+      "centroide": {
+        "lat": -30.6265577,
+        "lng": -51.874513
+      },
+      "ocorrencias": 9,
+      "unidades_afetadas": 18,
+      "chi": 11649,
+      "equipes_em_campo": 7,
+      "tempo_medio_minutos": 566,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
-          "ocorrencias": 5,
-          "unidades_afetadas": 5,
-          "chi": 7582.2
+          "ocorrencias": 3,
+          "unidades_afetadas": 3,
+          "chi": 1929
+        },
+        "Em Execução": {
+          "ocorrencias": 6,
+          "unidades_afetadas": 15,
+          "chi": 9720
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4312450,
+      "estado": "RS",
+      "municipio_ibge": 4312450,
+      "municipio_nome": "Morro Redondo",
+      "bairro": null,
+      "centroide": {
+        "lat": -31.6668449,
+        "lng": -52.6618667
+      },
+      "ocorrencias": 5,
+      "unidades_afetadas": 7,
+      "chi": 10471.8,
+      "equipes_em_campo": 2,
+      "tempo_medio_minutos": 1005,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Execução": {
+          "ocorrencias": 2,
+          "unidades_afetadas": 4,
+          "chi": 8654.4
+        },
+        "Em Preparação": {
+          "ocorrencias": 3,
+          "unidades_afetadas": 3,
+          "chi": 1817.4
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4305454,
+      "estado": "RS",
+      "municipio_ibge": 4305454,
+      "municipio_nome": "Cidreira",
+      "bairro": null,
+      "centroide": {
+        "lat": -30.1916489,
+        "lng": -50.208263
+      },
+      "ocorrencias": 11,
+      "unidades_afetadas": 12,
+      "chi": 9382.2,
+      "equipes_em_campo": 4,
+      "tempo_medio_minutos": 839,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Preparação": {
+          "ocorrencias": 10,
+          "unidades_afetadas": 10,
+          "chi": 9083.4
         },
         "Em Execução": {
           "ocorrencias": 1,
-          "unidades_afetadas": 1,
-          "chi": 703.2
+          "unidades_afetadas": 2,
+          "chi": 298.8
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4301636,
+      "estado": "RS",
+      "municipio_ibge": 4301636,
+      "municipio_nome": "Balneário Pinhal",
+      "bairro": null,
+      "centroide": {
+        "lat": -30.2815676,
+        "lng": -50.2574282
+      },
+      "ocorrencias": 12,
+      "unidades_afetadas": 12,
+      "chi": 8436.6,
+      "equipes_em_campo": 3,
+      "tempo_medio_minutos": 703,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Preparação": {
+          "ocorrencias": 9,
+          "unidades_afetadas": 9,
+          "chi": 5892
+        },
+        "Em Execução": {
+          "ocorrencias": 3,
+          "unidades_afetadas": 3,
+          "chi": 2544.6
         }
       },
       "por_tipo": [],
@@ -984,20 +979,51 @@
       },
       "ocorrencias": 5,
       "unidades_afetadas": 7,
-      "chi": 7072.8,
+      "chi": 7177.8,
       "equipes_em_campo": 3,
-      "tempo_medio_minutos": 1058,
+      "tempo_medio_minutos": 1073,
       "estagio_maximo": "",
       "por_status": {
         "Em Execução": {
           "ocorrencias": 2,
           "unidades_afetadas": 4,
-          "chi": 3615
+          "chi": 3675
         },
         "Em Preparação": {
           "ocorrencias": 3,
           "unidades_afetadas": 3,
-          "chi": 3457.8
+          "chi": 3502.8
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4314209,
+      "estado": "RS",
+      "municipio_ibge": 4314209,
+      "municipio_nome": "Pedro Osório",
+      "bairro": null,
+      "centroide": {
+        "lat": -31.5033665,
+        "lng": -52.8540819
+      },
+      "ocorrencias": 5,
+      "unidades_afetadas": 5,
+      "chi": 7096.2,
+      "equipes_em_campo": 2,
+      "tempo_medio_minutos": 1419,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Preparação": {
+          "ocorrencias": 4,
+          "unidades_afetadas": 4,
+          "chi": 6378
+        },
+        "Em Execução": {
+          "ocorrencias": 1,
+          "unidades_afetadas": 1,
+          "chi": 718.2
         }
       },
       "por_tipo": [],
@@ -1015,15 +1041,15 @@
       },
       "ocorrencias": 7,
       "unidades_afetadas": 7,
-      "chi": 6463.8,
+      "chi": 6568.2,
       "equipes_em_campo": 2,
-      "tempo_medio_minutos": 923,
+      "tempo_medio_minutos": 938,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 7,
           "unidades_afetadas": 7,
-          "chi": 6463.8
+          "chi": 6568.2
         }
       },
       "por_tipo": [],
@@ -1041,51 +1067,20 @@
       },
       "ocorrencias": 6,
       "unidades_afetadas": 6,
-      "chi": 4704,
+      "chi": 4793.4,
       "equipes_em_campo": 3,
-      "tempo_medio_minutos": 784,
+      "tempo_medio_minutos": 799,
       "estagio_maximo": "",
       "por_status": {
         "Em Execução": {
           "ocorrencias": 1,
           "unidades_afetadas": 1,
-          "chi": 1279.2
+          "chi": 1294.2
         },
         "Em Preparação": {
           "ocorrencias": 5,
           "unidades_afetadas": 5,
-          "chi": 3424.8
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4313508,
-      "estado": "RS",
-      "municipio_ibge": 4313508,
-      "municipio_nome": "Osório",
-      "bairro": null,
-      "centroide": {
-        "lat": -29.8684317,
-        "lng": -50.0860613
-      },
-      "ocorrencias": 5,
-      "unidades_afetadas": 5,
-      "chi": 3791.4,
-      "equipes_em_campo": 4,
-      "tempo_medio_minutos": 758,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Execução": {
-          "ocorrencias": 1,
-          "unidades_afetadas": 1,
-          "chi": 1306.8
-        },
-        "Em Preparação": {
-          "ocorrencias": 4,
-          "unidades_afetadas": 4,
-          "chi": 2484.6
+          "chi": 3499.2
         }
       },
       "por_tipo": [],
@@ -1103,20 +1098,20 @@
       },
       "ocorrencias": 6,
       "unidades_afetadas": 6,
-      "chi": 3600.6,
-      "equipes_em_campo": 2,
-      "tempo_medio_minutos": 600,
+      "chi": 3690.6,
+      "equipes_em_campo": 3,
+      "tempo_medio_minutos": 615,
       "estagio_maximo": "",
       "por_status": {
         "Em Execução": {
-          "ocorrencias": 2,
-          "unidades_afetadas": 2,
-          "chi": 2073.6
+          "ocorrencias": 3,
+          "unidades_afetadas": 3,
+          "chi": 2823.6
         },
         "Em Preparação": {
-          "ocorrencias": 4,
-          "unidades_afetadas": 4,
-          "chi": 1527
+          "ocorrencias": 3,
+          "unidades_afetadas": 3,
+          "chi": 867
         }
       },
       "por_tipo": [],
@@ -1132,22 +1127,22 @@
         "lat": -30.2616664,
         "lng": -51.491908
       },
-      "ocorrencias": 5,
+      "ocorrencias": 6,
       "unidades_afetadas": 6,
-      "chi": 3497.4,
+      "chi": 2729.4,
       "equipes_em_campo": 3,
-      "tempo_medio_minutos": 512,
+      "tempo_medio_minutos": 455,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
-          "ocorrencias": 4,
-          "unidades_afetadas": 4,
-          "chi": 1624.2
+          "ocorrencias": 5,
+          "unidades_afetadas": 5,
+          "chi": 2635.2
         },
         "Em Execução": {
           "ocorrencias": 1,
-          "unidades_afetadas": 2,
-          "chi": 1873.2
+          "unidades_afetadas": 1,
+          "chi": 94.2
         }
       },
       "por_tipo": [],
@@ -1165,15 +1160,15 @@
       },
       "ocorrencias": 1,
       "unidades_afetadas": 1,
-      "chi": 2674.2,
+      "chi": 2689.2,
       "equipes_em_campo": 1,
-      "tempo_medio_minutos": 2674,
+      "tempo_medio_minutos": 2689,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 1,
           "unidades_afetadas": 1,
-          "chi": 2674.2
+          "chi": 2689.2
         }
       },
       "por_tipo": [],
@@ -1191,20 +1186,20 @@
       },
       "ocorrencias": 3,
       "unidades_afetadas": 3,
-      "chi": 2457.6,
+      "chi": 2502.6,
       "equipes_em_campo": 2,
-      "tempo_medio_minutos": 819,
+      "tempo_medio_minutos": 834,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 2,
           "unidades_afetadas": 2,
-          "chi": 1800
+          "chi": 1830
         },
         "Em Execução": {
           "ocorrencias": 1,
           "unidades_afetadas": 1,
-          "chi": 657.6
+          "chi": 672.6
         }
       },
       "por_tipo": [],
@@ -1222,15 +1217,46 @@
       },
       "ocorrencias": 1,
       "unidades_afetadas": 1,
-      "chi": 2400.6,
+      "chi": 2415.6,
       "equipes_em_campo": 1,
-      "tempo_medio_minutos": 2401,
+      "tempo_medio_minutos": 2416,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 1,
           "unidades_afetadas": 1,
-          "chi": 2400.6
+          "chi": 2415.6
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4321501,
+      "estado": "RS",
+      "municipio_ibge": 4321501,
+      "municipio_nome": "Torres",
+      "bairro": null,
+      "centroide": {
+        "lat": -29.4277427,
+        "lng": -49.7955727
+      },
+      "ocorrencias": 4,
+      "unidades_afetadas": 4,
+      "chi": 2104.8,
+      "equipes_em_campo": 3,
+      "tempo_medio_minutos": 526,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Execução": {
+          "ocorrencias": 2,
+          "unidades_afetadas": 2,
+          "chi": 1435.8
+        },
+        "Em Preparação": {
+          "ocorrencias": 2,
+          "unidades_afetadas": 2,
+          "chi": 669
         }
       },
       "por_tipo": [],
@@ -1248,46 +1274,20 @@
       },
       "ocorrencias": 3,
       "unidades_afetadas": 3,
-      "chi": 1931.4,
+      "chi": 1976.4,
       "equipes_em_campo": 3,
-      "tempo_medio_minutos": 644,
+      "tempo_medio_minutos": 659,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 1,
           "unidades_afetadas": 1,
-          "chi": 1387.8
+          "chi": 1402.8
         },
         "Em Execução": {
           "ocorrencias": 2,
           "unidades_afetadas": 2,
-          "chi": 543.6
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4311734,
-      "estado": "RS",
-      "municipio_ibge": 4311734,
-      "municipio_nome": "Mampituba",
-      "bairro": null,
-      "centroide": {
-        "lat": -29.2306906,
-        "lng": -49.9834235
-      },
-      "ocorrencias": 1,
-      "unidades_afetadas": 4,
-      "chi": 1773.6,
-      "equipes_em_campo": 1,
-      "tempo_medio_minutos": 443,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Execução": {
-          "ocorrencias": 1,
-          "unidades_afetadas": 4,
-          "chi": 1773.6
+          "chi": 573.6
         }
       },
       "por_tipo": [],
@@ -1305,46 +1305,20 @@
       },
       "ocorrencias": 4,
       "unidades_afetadas": 4,
-      "chi": 1641.6,
+      "chi": 1701,
       "equipes_em_campo": 2,
-      "tempo_medio_minutos": 410,
+      "tempo_medio_minutos": 425,
       "estagio_maximo": "",
       "por_status": {
         "Em Execução": {
           "ocorrencias": 2,
           "unidades_afetadas": 2,
-          "chi": 914.4
+          "chi": 944.4
         },
         "Em Preparação": {
           "ocorrencias": 2,
           "unidades_afetadas": 2,
-          "chi": 727.2
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4305447,
-      "estado": "RS",
-      "municipio_ibge": 4305447,
-      "municipio_nome": "Chuvisca",
-      "bairro": null,
-      "centroide": {
-        "lat": -30.7727791,
-        "lng": -51.9556285
-      },
-      "ocorrencias": 1,
-      "unidades_afetadas": 1,
-      "chi": 1514.4,
-      "equipes_em_campo": 0,
-      "tempo_medio_minutos": 1514,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Preparação": {
-          "ocorrencias": 1,
-          "unidades_afetadas": 1,
-          "chi": 1514.4
+          "chi": 756.6
         }
       },
       "por_tipo": [],
@@ -1362,46 +1336,77 @@
       },
       "ocorrencias": 3,
       "unidades_afetadas": 3,
-      "chi": 1488.6,
+      "chi": 1533.6,
       "equipes_em_campo": 2,
-      "tempo_medio_minutos": 496,
+      "tempo_medio_minutos": 511,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 2,
           "unidades_afetadas": 2,
-          "chi": 921.6
+          "chi": 951.6
         },
         "Em Execução": {
           "ocorrencias": 1,
           "unidades_afetadas": 1,
-          "chi": 567
+          "chi": 582
         }
       },
       "por_tipo": [],
       "por_operation_stage": []
     },
     {
-      "id": 4300638,
+      "id": 4305447,
       "estado": "RS",
-      "municipio_ibge": 4300638,
-      "municipio_nome": "Amaral Ferrador",
+      "municipio_ibge": 4305447,
+      "municipio_nome": "Chuvisca",
       "bairro": null,
       "centroide": {
-        "lat": -30.8406128,
-        "lng": -52.2603388
+        "lat": -30.7727791,
+        "lng": -51.9556285
       },
       "ocorrencias": 1,
       "unidades_afetadas": 1,
-      "chi": 1462.8,
-      "equipes_em_campo": 1,
-      "tempo_medio_minutos": 1463,
+      "chi": 1529.4,
+      "equipes_em_campo": 0,
+      "tempo_medio_minutos": 1529,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 1,
           "unidades_afetadas": 1,
-          "chi": 1462.8
+          "chi": 1529.4
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4313656,
+      "estado": "RS",
+      "municipio_ibge": 4313656,
+      "municipio_nome": "Palmares do Sul",
+      "bairro": null,
+      "centroide": {
+        "lat": -30.310215,
+        "lng": -50.418132
+      },
+      "ocorrencias": 4,
+      "unidades_afetadas": 12,
+      "chi": 1498.2,
+      "equipes_em_campo": 2,
+      "tempo_medio_minutos": 266,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Execução": {
+          "ocorrencias": 2,
+          "unidades_afetadas": 10,
+          "chi": 1294.2
+        },
+        "Em Preparação": {
+          "ocorrencias": 2,
+          "unidades_afetadas": 2,
+          "chi": 204
         }
       },
       "por_tipo": [],
@@ -1419,72 +1424,15 @@
       },
       "ocorrencias": 1,
       "unidades_afetadas": 1,
-      "chi": 1358.4,
+      "chi": 1373.4,
       "equipes_em_campo": 1,
-      "tempo_medio_minutos": 1358,
+      "tempo_medio_minutos": 1373,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 1,
           "unidades_afetadas": 1,
-          "chi": 1358.4
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4313656,
-      "estado": "RS",
-      "municipio_ibge": 4313656,
-      "municipio_nome": "Palmares do Sul",
-      "bairro": null,
-      "centroide": {
-        "lat": -30.310215,
-        "lng": -50.418132
-      },
-      "ocorrencias": 3,
-      "unidades_afetadas": 11,
-      "chi": 1290,
-      "equipes_em_campo": 2,
-      "tempo_medio_minutos": 326,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Execução": {
-          "ocorrencias": 2,
-          "unidades_afetadas": 10,
-          "chi": 1144.2
-        },
-        "Em Preparação": {
-          "ocorrencias": 1,
-          "unidades_afetadas": 1,
-          "chi": 145.8
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4301305,
-      "estado": "RS",
-      "municipio_ibge": 4301305,
-      "municipio_nome": "Arroio Grande",
-      "bairro": null,
-      "centroide": {
-        "lat": -32.3216892,
-        "lng": -53.1724297
-      },
-      "ocorrencias": 3,
-      "unidades_afetadas": 3,
-      "chi": 1218.6,
-      "equipes_em_campo": 1,
-      "tempo_medio_minutos": 406,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Preparação": {
-          "ocorrencias": 3,
-          "unidades_afetadas": 3,
-          "chi": 1218.6
+          "chi": 1373.4
         }
       },
       "por_tipo": [],
@@ -1502,20 +1450,20 @@
       },
       "ocorrencias": 3,
       "unidades_afetadas": 3,
-      "chi": 1042.2,
+      "chi": 1087.2,
       "equipes_em_campo": 2,
-      "tempo_medio_minutos": 347,
+      "tempo_medio_minutos": 362,
       "estagio_maximo": "",
       "por_status": {
         "Em Execução": {
           "ocorrencias": 2,
           "unidades_afetadas": 2,
-          "chi": 949.2
+          "chi": 979.2
         },
         "Em Preparação": {
           "ocorrencias": 1,
           "unidades_afetadas": 1,
-          "chi": 93
+          "chi": 108
         }
       },
       "por_tipo": [],
@@ -1533,15 +1481,15 @@
       },
       "ocorrencias": 1,
       "unidades_afetadas": 1,
-      "chi": 814.2,
+      "chi": 829.2,
       "equipes_em_campo": 1,
-      "tempo_medio_minutos": 814,
+      "tempo_medio_minutos": 829,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 1,
           "unidades_afetadas": 1,
-          "chi": 814.2
+          "chi": 829.2
         }
       },
       "por_tipo": [],
@@ -1559,46 +1507,15 @@
       },
       "ocorrencias": 1,
       "unidades_afetadas": 1,
-      "chi": 701.4,
+      "chi": 716.4,
       "equipes_em_campo": 1,
-      "tempo_medio_minutos": 701,
+      "tempo_medio_minutos": 716,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 1,
           "unidades_afetadas": 1,
-          "chi": 701.4
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4300604,
-      "estado": "RS",
-      "municipio_ibge": 4300604,
-      "municipio_nome": "Alvorada",
-      "bairro": null,
-      "centroide": {
-        "lat": -29.9889373,
-        "lng": -51.0538062
-      },
-      "ocorrencias": 4,
-      "unidades_afetadas": 5,
-      "chi": 488.4,
-      "equipes_em_campo": 4,
-      "tempo_medio_minutos": 112,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Execução": {
-          "ocorrencias": 3,
-          "unidades_afetadas": 4,
-          "chi": 349.2
-        },
-        "Em Preparação": {
-          "ocorrencias": 1,
-          "unidades_afetadas": 1,
-          "chi": 139.2
+          "chi": 716.4
         }
       },
       "por_tipo": [],
@@ -1614,17 +1531,74 @@
         "lat": -30.7176275,
         "lng": -51.5935467
       },
+      "ocorrencias": 5,
+      "unidades_afetadas": 5,
+      "chi": 317.4,
+      "equipes_em_campo": 2,
+      "tempo_medio_minutos": 64,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Preparação": {
+          "ocorrencias": 5,
+          "unidades_afetadas": 5,
+          "chi": 317.4
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4300604,
+      "estado": "RS",
+      "municipio_ibge": 4300604,
+      "municipio_nome": "Alvorada",
+      "bairro": null,
+      "centroide": {
+        "lat": -30.0069763,
+        "lng": -51.0770078
+      },
+      "ocorrencias": 3,
+      "unidades_afetadas": 4,
+      "chi": 292.8,
+      "equipes_em_campo": 2,
+      "tempo_medio_minutos": 80,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Execução": {
+          "ocorrencias": 2,
+          "unidades_afetadas": 3,
+          "chi": 258.6
+        },
+        "Em Preparação": {
+          "ocorrencias": 1,
+          "unidades_afetadas": 1,
+          "chi": 34.2
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4301305,
+      "estado": "RS",
+      "municipio_ibge": 4301305,
+      "municipio_nome": "Arroio Grande",
+      "bairro": null,
+      "centroide": {
+        "lat": -32.1342196,
+        "lng": -53.0722818
+      },
       "ocorrencias": 3,
       "unidades_afetadas": 3,
-      "chi": 216,
-      "equipes_em_campo": 1,
-      "tempo_medio_minutos": 72,
+      "chi": 185.4,
+      "equipes_em_campo": 2,
+      "tempo_medio_minutos": 62,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 3,
           "unidades_afetadas": 3,
-          "chi": 216
+          "chi": 185.4
         }
       },
       "por_tipo": [],
@@ -1642,15 +1616,67 @@
       },
       "ocorrencias": 1,
       "unidades_afetadas": 1,
-      "chi": 42.6,
+      "chi": 57.6,
       "equipes_em_campo": 1,
-      "tempo_medio_minutos": 43,
+      "tempo_medio_minutos": 58,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Execução": {
+          "ocorrencias": 1,
+          "unidades_afetadas": 1,
+          "chi": 57.6
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4304713,
+      "estado": "RS",
+      "municipio_ibge": 4304713,
+      "municipio_nome": "Caraá",
+      "bairro": null,
+      "centroide": {
+        "lat": -29.8049949,
+        "lng": -50.4190734
+      },
+      "ocorrencias": 1,
+      "unidades_afetadas": 1,
+      "chi": 41.4,
+      "equipes_em_campo": 0,
+      "tempo_medio_minutos": 41,
       "estagio_maximo": "",
       "por_status": {
         "Em Preparação": {
           "ocorrencias": 1,
           "unidades_afetadas": 1,
-          "chi": 42.6
+          "chi": 41.4
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
+      "id": 4301107,
+      "estado": "RS",
+      "municipio_ibge": 4301107,
+      "municipio_nome": "Arroio dos Ratos",
+      "bairro": null,
+      "centroide": {
+        "lat": -30.0835535,
+        "lng": -51.7504697
+      },
+      "ocorrencias": 1,
+      "unidades_afetadas": 1,
+      "chi": 33.6,
+      "equipes_em_campo": 0,
+      "tempo_medio_minutos": 34,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Preparação": {
+          "ocorrencias": 1,
+          "unidades_afetadas": 1,
+          "chi": 33.6
         }
       },
       "por_tipo": [],
