@@ -11,19 +11,19 @@
     "inicio_de": null,
     "inicio_ate": null
   },
-  "gerado_em": "2026-10-26T10:07:49.590682Z",
+  "gerado_em": "2026-10-26T10:20:51.066630Z",
   "total": {
-    "ocorrencias": 98,
-    "unidades_afetadas": 143,
-    "chi": 131297272.8,
-    "equipes_em_campo": 50,
-    "tempo_medio_minutos": 1339533,
+    "ocorrencias": 101,
+    "unidades_afetadas": 146,
+    "chi": 131298579.6,
+    "equipes_em_campo": 53,
+    "tempo_medio_minutos": 1299758,
     "estagio_maximo": "",
     "por_status": {
       "Em Preparação": {
-        "ocorrencias": 84,
-        "unidades_afetadas": 127,
-        "chi": 130653786.6
+        "ocorrencias": 87,
+        "unidades_afetadas": 130,
+        "chi": 130655093.4
       },
       "Em Execução": {
         "ocorrencias": 14,
@@ -33,16 +33,16 @@
     },
     "por_tipo": {
       "Não Programada": {
-        "ocorrencias": 98,
-        "unidades_afetadas": 143,
-        "chi": 131297272.8
+        "ocorrencias": 101,
+        "unidades_afetadas": 146,
+        "chi": 131298579.6
       }
     },
     "por_operation_stage": {
       "Normal": {
-        "ocorrencias": 98,
-        "unidades_afetadas": 143,
-        "chi": 131297272.8
+        "ocorrencias": 101,
+        "unidades_afetadas": 146,
+        "chi": 131298579.6
       }
     }
   },
@@ -179,7 +179,7 @@
       "ocorrencias": 6,
       "unidades_afetadas": 6,
       "chi": 305651.4,
-      "equipes_em_campo": 4,
+      "equipes_em_campo": 5,
       "tempo_medio_minutos": 50942,
       "estagio_maximo": "",
       "por_status": {
@@ -210,7 +210,7 @@
       "ocorrencias": 5,
       "unidades_afetadas": 5,
       "chi": 281838,
-      "equipes_em_campo": 2,
+      "equipes_em_campo": 3,
       "tempo_medio_minutos": 56368,
       "estagio_maximo": "",
       "por_status": {
@@ -363,11 +363,11 @@
         "lat": -30.4295049,
         "lng": -50.5455814
       },
-      "ocorrencias": 3,
-      "unidades_afetadas": 3,
-      "chi": 114154.8,
+      "ocorrencias": 4,
+      "unidades_afetadas": 4,
+      "chi": 114610.8,
       "equipes_em_campo": 1,
-      "tempo_medio_minutos": 38052,
+      "tempo_medio_minutos": 28653,
       "estagio_maximo": "",
       "por_status": {
         "Em Execução": {
@@ -376,9 +376,9 @@
           "chi": 47182.2
         },
         "Em Preparação": {
-          "ocorrencias": 2,
-          "unidades_afetadas": 2,
-          "chi": 66972.6
+          "ocorrencias": 3,
+          "unidades_afetadas": 3,
+          "chi": 67428.6
         }
       },
       "por_tipo": [],
@@ -560,11 +560,11 @@
         "lat": -31.3605652,
         "lng": -51.9924859
       },
-      "ocorrencias": 2,
-      "unidades_afetadas": 2,
-      "chi": 57558,
-      "equipes_em_campo": 2,
-      "tempo_medio_minutos": 28779,
+      "ocorrencias": 3,
+      "unidades_afetadas": 3,
+      "chi": 57885,
+      "equipes_em_campo": 3,
+      "tempo_medio_minutos": 19295,
       "estagio_maximo": "",
       "por_status": {
         "Em Execução": {
@@ -573,9 +573,9 @@
           "chi": 30642
         },
         "Em Preparação": {
-          "ocorrencias": 1,
-          "unidades_afetadas": 1,
-          "chi": 26916
+          "ocorrencias": 2,
+          "unidades_afetadas": 2,
+          "chi": 27243
         }
       },
       "por_tipo": [],
@@ -608,6 +608,32 @@
       "por_operation_stage": []
     },
     {
+      "id": 4321600,
+      "estado": "RS",
+      "municipio_ibge": 4321600,
+      "municipio_nome": "Tramandaí",
+      "bairro": null,
+      "centroide": {
+        "lat": -30.0344083,
+        "lng": -50.1623951
+      },
+      "ocorrencias": 2,
+      "unidades_afetadas": 2,
+      "chi": 40839.6,
+      "equipes_em_campo": 2,
+      "tempo_medio_minutos": 20420,
+      "estagio_maximo": "",
+      "por_status": {
+        "Em Preparação": {
+          "ocorrencias": 2,
+          "unidades_afetadas": 2,
+          "chi": 40839.6
+        }
+      },
+      "por_tipo": [],
+      "por_operation_stage": []
+    },
+    {
       "id": 4321436,
       "estado": "RS",
       "municipio_ibge": 4321436,
@@ -628,32 +654,6 @@
           "ocorrencias": 1,
           "unidades_afetadas": 1,
           "chi": 40683
-        }
-      },
-      "por_tipo": [],
-      "por_operation_stage": []
-    },
-    {
-      "id": 4321600,
-      "estado": "RS",
-      "municipio_ibge": 4321600,
-      "municipio_nome": "Tramandaí",
-      "bairro": null,
-      "centroide": {
-        "lat": -30.0344083,
-        "lng": -50.1623951
-      },
-      "ocorrencias": 1,
-      "unidades_afetadas": 1,
-      "chi": 40315.8,
-      "equipes_em_campo": 1,
-      "tempo_medio_minutos": 40316,
-      "estagio_maximo": "",
-      "por_status": {
-        "Em Preparação": {
-          "ocorrencias": 1,
-          "unidades_afetadas": 1,
-          "chi": 40315.8
         }
       },
       "por_tipo": [],
@@ -854,7 +854,7 @@
       "ocorrencias": 1,
       "unidades_afetadas": 3,
       "chi": 2349,
-      "equipes_em_campo": 1,
+      "equipes_em_campo": 2,
       "tempo_medio_minutos": 783,
       "estagio_maximo": "",
       "por_status": {
@@ -906,7 +906,7 @@
       "ocorrencias": 1,
       "unidades_afetadas": 1,
       "chi": 1179,
-      "equipes_em_campo": 0,
+      "equipes_em_campo": 1,
       "tempo_medio_minutos": 1179,
       "estagio_maximo": "",
       "por_status": {
